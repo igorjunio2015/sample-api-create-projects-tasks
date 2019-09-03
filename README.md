@@ -10,7 +10,6 @@
   * Sucrase
   
 ## Execução:
-#
 ```
 $ yarn dev
 ```
