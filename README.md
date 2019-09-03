@@ -1,15 +1,15 @@
-# Projeto Exemplo de API para cadastrar Projetos e Tarefas ao Projeto
+# Projeto exemplo de API para cadastrar Projetos e Tarefas ao Projeto
 
-## Requerimento
+### Requerimento
   * Node 10.14.1
   * Yarn ou NPM
 
-## Dependências
+### Dependências
   * Express
   * Nodemon
   * Sucrase
   
-## Execução:
+### Execução:
 ```
 $ yarn dev
 ```
